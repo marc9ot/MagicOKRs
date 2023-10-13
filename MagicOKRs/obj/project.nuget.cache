@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIcZFywF+lyegNZHgoFSoTnOCcW7znjl7cucKYgOrJml+ttVbZS1K3oUd2xSMD9bhWbwBP11/fEVzeKB+6+sPw==",
+  "success": true,
+  "projectFilePath": "/Users/mottenb/Projects/MagicOKRs/MagicOKRs/MagicOKRs.csproj",
+  "expectedPackageFiles": [
+    "/Users/mottenb/.nuget/packages/dapper/2.1.11/dapper.2.1.11.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/mottenb/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
